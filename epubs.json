@@ -1,1 +1,423 @@
+[
+  {
+    "id": "epub-1",
+    "title": "Scythia : L'étonnante Histoire de l'antique Irlande",
+    "description": "Les Irlandais et les Ecossais puisent-ils leurs origines chez les Scythes de la mer... Caspienne?",
+    "author": "Hervé Cariou",
+    "tags": ["Culture celtique"],
+    "categories": ["Les grandes énigmes"],
+    "cover": "covers/ScythiaB.jpg",
+    "url": "https://drive.proton.me/urls/3FF7PS283C#WQEV9xHMl14a"
+  },
+  {
+    "id": "epub-2",
+    "title": "Brittia : L’Histoire méconnue des Bretons",
+    "description": "Durant la protohistoire, les ancêtres des Bretons vivaient-ils sur les rivages de la mer... Noire?",
+    "author": "Hervé Cariou",
+    "tags": ["Culture celtique"],
+    "categories": ["Les grandes énigmes"],
+    "cover": "covers/Brittia.jpg",
+    "url": "https://drive.proton.me/urls/2Y0HGXEVM0#42omMWofcB85"
+  },
+  {
+    "id": "epub-3",
+    "title": "Keltia : L’étrange Histoire des Celtes",
+    "description": "Les Celtes puisent-ils leurs origines chez les Cimmériens et/ou les (Scythes) Gaëls?",
+    "author": "Hervé Cariou",
+    "tags": ["Culture celtique"],
+    "categories": ["Les grandes énigmes"],
+    "cover": "covers/Keltia.jpg",
+    "url": "https://drive.proton.me/urls/TAYSD9K594#D6t2YAh7cEBD"
+  },
+  {
+    "id": "epub-4",
+    "title": "Nâga : L'Histoire de la population nâga",
+    "description": "Durant la protohistoire, une population joua-t-elle un rôle civilisateur de l'océan Indien à la Méditerranée en passant par la mer Rouge?",
+    "author": "Hervé Cariou",
+    "tags": ["Protohistoire"],
+    "categories": ["Les grandes énigmes"],
+    "cover": "covers/Nâga.jpg",
+    "url": "https://drive.proton.me/urls/T5XAKDDRQG#roG7UBjEIeME"
+  },
+  {
+    "id": "epub-5",
+    "title": "Maya : L’Histoire de la population maya",
+    "description": "Avant leur migration vers l'Amérique, les Mayas vivaient-ils dans la péninsule indienne et plus précisément, au Baloutchistan?",
+    "author": "Hervé Cariou",
+    "tags": ["Protohistoire"],
+    "categories": ["Les grandes énigmes"],
+    "cover": "covers/Maya.jpg",
+    "url": ""
+  },
+  {
+    "id": "epub-6",
+    "title": "Luzia : L’Histoire ancienne du Nouveau Continent",
+    "description": "Avant la dernière grande glaciation et (bien) avant les migrants venus d'Asie, l'Amérique abritait des sociétés humaines. D'où venaient-elles?",
+    "author": "Hervé Cariou",
+    "tags": ["Préhistoire"],
+    "categories": ["Les grandes énigmes"],
+    "cover": "covers/Luzia.jpg",
+    "url": ""
+  },
+  {
+    "id": "epub-7",
+    "title": "Gaia : La Préhistoire revisitée",
+    "description": "Selon le consensus actuel, des hominidés archaïques engendrèrent notre genre humain actuel. Peut-on poser l'hypothèse... inverse?",
+    "author": "Hervé Cariou",
+    "tags": ["Préhistoire"],
+    "categories": ["Les grandes énigmes"],
+    "cover": "covers/Gaia.jpg",
+    "url": ""
+  },
+  {
+    "id": "epub-8",
+    "title": "Koya : Les indices de la ''génohistoire''",
+    "description": "La génétique des populations est l'étude de la reproduction des populations et révolutionne la protohistoire.",
+    "author": "Hervé Cariou",
+    "tags": ["Protohistoire"],
+    "categories": ["Les grandes énigmes"],
+    "cover": "covers/Koya.jpg",
+    "url": ""
+  },
+  {
+    "id": "epub-9",
+    "title": "Sela : Des témoignages historiques surréels",
+    "description": "Tout ce que vous ignorez (peut-être) sur les témoignages historiques les plus surréalistes.",
+    "author": "Hervé Cariou",
+    "tags": ["Anticipation"],
+    "categories": ["Les grandes énigmes"],
+    "cover": "covers/Sela.jpg",
+    "url": ""
+  },
+  {
+    "id": "epub-10",
+    "title": "Troia : L’Histoire de la Nouvelle-Troie",
+    "description": "Durant la protohistoire, des survivants du carnage de Troie fondèrent-ils une société en... Grande-Bretagne?",
+    "author": "Hervé Cariou",
+    "tags": ["Culture celtique"],
+    "categories": ["Les grandes énigmes"],
+    "cover": "covers/Troia.jpg",
+    "url": ""
+  },
+  {
+    "id": "epub-11",
+    "title": "India : Les origines de l’Inde",
+    "description": "L'Inde abrita-t-elle la société humaine la plus avancée de la protohistoire?",
+    "author": "Hervé Cariou",
+    "tags": ["Protohistoire"],
+    "categories": ["Les grandes énigmes"],
+    "cover": "covers/India.jpg",
+    "url": ""
+  },
+  {
+    "id": "epub-12",
+    "title": "Namaka : Les origines des peuples antiques",
+    "description": "Cet essai traite des origines d'une quinzaine de populations civilisatrices de la protohistoire.",
+    "author": "Hervé Cariou",
+    "tags": ["Protohistoire"],
+    "categories": ["Les grandes énigmes"],
+    "cover": "covers/Namaka.jpg",
+    "url": ""
+  },
+  {
+    "id": "epub-13",
+    "title": "Europa : Les origines des Européens",
+    "description": "Durant la protohistoire européenne, les premiers Indo-européens vivaient-ils exclusivement dans des régions insulaires?",
+    "author": "Hervé Cariou",
+    "tags": ["Protohistoire"],
+    "categories": ["Les grandes énigmes"],
+    "cover": "covers/Europa.jpg",
+    "url": ""
+  },
+  {
+    "id": "epub-14",
+    "title": "Brittia II : Du Kalimantan à la Bretagne",
+    "description": "Les Bretons actuels descendent-ils d'une population insulaire de l'océan... Indien?",
+    "author": "Hervé Cariou",
+    "tags": ["Culture celtique"],
+    "categories": ["Les grandes énigmes"],
+    "cover": "covers/Brittia2.jpg",
+    "url": ""
+  },
+  {
+    "id": "epub-15",
+    "title": "Scythia: The Amazing Origins of Ancient Ireland",
+    "description": "In 1320, the Declaration of Arbroath written in Latin, contains a surprising paragraph.",
+    "author": "Cryfris Llydaweg",
+    "tags": ["Celtic Culture"],
+    "categories": ["The great mysteries"],
+    "cover": "covers/Scythia-EN.jpg",
+    "url": ""
+  },
+  {
+    "id": "epub-16",
+    "title": "Ibéria : L’énigme proto-ibère",
+    "description": "''L'Ibère est rude'' (et le problème de son origine aussi). Serait-il originaire du... Caucase?",
+    "author": "Hervé Cariou",
+    "tags": ["Protohistoire"],
+    "categories": ["Les grandes énigmes"],
+    "cover": "covers/Iberia.jpg",
+    "url": ""
+  },
+  {
+    "id": "epub-17",
+    "title": "Furia : Les deux guerres mondiales décodées",
+    "description": "Table des matières. 1694. 1878-1904. 1905-1913. 1914-1916. 1917-1928. 1929-1937. 1938. 1939",
+    "author": "Hervé Cariou",
+    "tags": ["Histoire"],
+    "categories": ["Les grandes énigmes"],
+    "cover": "covers/Furia.jpg",
+    "url": ""
+  },
+  {
+    "id": "epub-18",
+    "title": "Tè Ra : Quand l’Histoire dépasse la fiction",
+    "description": "''Plus que jamais écoute, et que ton esprit veille ! D’étranges vérités vont frapper ton oreille ; à tes yeux va s’ouvrir un nouvel horizon.''",
+    "author": "Hervé Cariou",
+    "tags": ["Anticipation"],
+    "categories": ["Les grandes énigmes"],
+    "cover": "covers/TèRa.jpg",
+    "url": ""
+  },
+  {
+    "id": "epub-19",
+    "title": "Origins of the Celts: As you have never read them before!",
+    "description": "If you think the Celtic world is only twenty-five centuries old, this free eBook will disappoint you, as it adds another seven centuries.",
+    "author": "Hervé Cariou",
+    "tags": ["Celtic Culture"],
+    "categories": ["The great mysteries"],
+    "cover": "covers/Origins.jpg",
+    "url": ""
+  },
+  {
+    "id": "epub-20",
+    "title": "Futuria : Le futur proche décodé",
+    "description": "Tables des matières. En l’an 2100. Le néomercantilisme. Les années 2020. Les années 2030. L’économie quaternaire. Les ressources. Les tendances. Transhumanisme et décodage d’Heidegger",
+    "author": "Hervé Cariou",
+    "tags": ["Anticipation"],
+    "categories": ["Anticipation"],
+    "cover": "covers/Futuria.jpg",
+    "url": ""
+  },
+  {
+    "id": "epub-21",
+    "title": "Edda : Le ''space opera'' norrois",
+    "description": "Pour endormir nos enfants, la cosmogonie scandinave s'avère très efficace. Par contre, une lecture au second degré pourrait réveiller du monde.",
+    "author": "Hervé Cariou",
+    "tags": ["Anticipation"],
+    "categories": ["Les grandes énigmes"],
+    "cover": "covers/Edda.jpg",
+    "url": ""
+  },
+  {
+    "id": "epub-22",
+    "title": "Napoléon B. L'interview",
+    "description": "Essai historique sous la forme d'une interview fictive de Napoléon Bonaparte.",
+    "author": "Hervé Cariou",
+    "tags": ["Histoire"],
+    "categories": ["Les interviews fictives"],
+    "cover": "covers/Napoléon.jpg",
+    "url": ""
+  },
+  {
+    "id": "epub-23",
+    "title": "Pierre-Roger de Mirepoix. L’interview",
+    "description": "Essai historique sous la forme d'une interview fictive de Pierre-Roger de Mirepoix, défenseur de la citadelle de Montségur.",
+    "author": "Hervé Cariou",
+    "tags": ["Histoire"],
+    "categories": ["Les interviews fictives"],
+    "cover": "covers/Mirepoix.jpg",
+    "url": ""
+  },
+  {
+    "id": "epub-24",
+    "title": "Europe antique. Un glossaire",
+    "description": "Cet essai présente un glossaire antique et protohistorique de populations indo-européennes ou qui adoptèrent une langue proto-indo-européenne.",
+    "author": "Hervé Cariou",
+    "tags": ["Antiquité"],
+    "categories": ["Les glossaires de l'Antiquité"],
+    "cover": "covers/Europe.jpg",
+    "url": ""
+  },
+  {
+    "id": "epub-25",
+    "title": "Ancient Europe. A glossary",
+    "description": "This essay presents a glossary of ancient populations that were Indo-European or adopted a proto-Indo-European language.",
+    "author": "Hervé Cariou",
+    "tags": ["Ancient History"],
+    "categories": ["Antiquity Glossaries"],
+    "cover": "covers/Europe-EN.jpg",
+    "url": ""
+  },
+  {
+    "id": "epub-26",
+    "title": "Atlantia : L'énigme proto-atlante",
+    "description": "La science peut se réapproprier l'hypothèse atlantide.",
+    "author": "Hervé Cariou",
+    "tags": ["Protohistoire"],
+    "categories": ["Les grandes énigmes"],
+    "cover": "covers/Atlantia.jpg",
+    "url": ""
+  },
+  {
+    "id": "epub-27",
+    "title": "La Bretagne. L’indépendance?",
+    "description": "Table des matières. Introduction. Indépendance, actes I à V. Les situations culturelle, économique, énergétique et politique.",
+    "author": "Hervé Cariou",
+    "tags": ["Anticipation"],
+    "categories": ["Anticipation"],
+    "cover": "covers/Bretagne.jpg",
+    "url": ""
+  },
+  {
+    "id": "epub-28",
+    "title": "Nysa : La première conquête",
+    "description": "Nous allons entreprendre un long voyage protohistorique de l'Hespérie à la cité de Nisa pour suivre la première conquête du ''Monde''.",
+    "author": "Hervé Cariou",
+    "tags": ["Protohistoire"],
+    "categories": ["Les grandes énigmes"],
+    "cover": "covers/Nysa.jpg",
+    "url": ""
+  },
+  {
+    "id": "epub-29",
+    "title": "J. Churchward. Un glossaire",
+    "description": "En 1926, âgé de 75 ans, James Churchward publie et argumente sur l’existence d’un sous-continent (et d'une civilisation) ''perdu'' dans le Pacifique.",
+    "author": "Hervé Cariou",
+    "tags": ["Anticipation"],
+    "categories": ["Les glossaires de l'Antiquité"],
+    "cover": "covers/Churchward.jpg",
+    "url": ""
+  },
+  {
+    "id": "epub-30",
+    "title": "Anna Vreizh. L’interview",
+    "description": "Essai historique sous la forme d'une interview fictive d'Anna Vreizh (Anne de Bretagne).",
+    "author": "Hervé Cariou",
+    "tags": ["Culture celtique"],
+    "categories": ["Les interviews fictives"],
+    "cover": "covers/Anna.jpg",
+    "url": ""
+  },
+  {
+    "id": "epub-31",
+    "title": "Druidéa : Des origines insolites de la culture celte",
+    "description": "Nous démontrerons dans cet essai que les Européens protohistoriques ne peuvent revendiquer le druidisme.",
+    "author": "Hervé Cariou",
+    "tags": ["Culture celtique"],
+    "categories": ["Les grandes énigmes"],
+    "cover": "covers/Druidéa.jpg",
+    "url": ""
+  },
+  {
+    "id": "epub-32",
+    "title": "Amunet : Des origines obscures de l’Egypte antique",
+    "description": "Cet essai tente d’élucider une citation de Philostrate d’Athènes (175-245) de son ouvrage ''Vie d’Apollonios de Tyane''.",
+    "author": "Hervé Cariou",
+    "tags": ["Protohistoire"],
+    "categories": ["Les grandes énigmes"],
+    "cover": "covers/Amunet.jpg",
+    "url": ""
+  },
+  {
+    "id": "epub-33",
+    "title": "Ĕlāhā : Evolution ou évolution créative ?",
+    "description": "Notre évolution darwinienne reçut-elle un ''coup de main'' durant le Pléistocène?",
+    "author": "Hervé Cariou",
+    "tags": ["Préhistoire"],
+    "categories": ["Les grandes énigmes"],
+    "cover": "covers/Elaha.jpg",
+    "url": ""
+  },
+  {
+    "id": "epub-34",
+    "title": "Bellone : La rivalité protohistorique entre la Grèce et l’Inde",
+    "description": "Alexandre le Grand fut le tout premier conquérant grec de l'Inde. Le tout premier, vraiment?",
+    "author": "Hervé Cariou",
+    "tags": ["Protohistoire"],
+    "categories": ["Les grandes énigmes"],
+    "cover": "covers/Bellone.jpg",
+    "url": ""
+  },
+  {
+    "id": "epub-35",
+    "title": "Dacia : Des origines inattendues des Daces",
+    "description": "L'empire romain paya un tribut aux Daces. Comment un empire peut-il plier le genou devant d'antiques riverains de la mer Noire?",
+    "author": "Hervé Cariou",
+    "tags": ["Protohistoire"],
+    "categories": ["Les grandes énigmes"],
+    "cover": "covers/Dacia.jpg",
+    "url": ""
+  },
+  {
+    "id": "epub-36",
+    "title": "Liguria : L’origine des Ligures enfin connue ?",
+    "description": "L’origine des anciens Ligures défie encore les sciences humaines impliquées. Cet essai explique la raison.",
+    "author": "Hervé Cariou",
+    "tags": ["Protohistoire"],
+    "categories": ["Les grandes énigmes"],
+    "cover": "covers/Liguria.jpg",
+    "url": ""
+  },
+  {
+    "id": "epub-37",
+    "title": "Cymria : La fraternité entre Gallois et Bretons",
+    "description": "L’identité nationale galloise émerge au Ve siècle. L’identité nationale ? Oui. L’identité historique ? Non.",
+    "author": "Hervé Cariou",
+    "tags": ["Culture celtique"],
+    "categories": ["Les grandes énigmes"],
+    "cover": "covers/Cymria.jpg",
+    "url": ""
+  },
+  {
+    "id": "epub-38",
+    "title": "Underwater Mesolithic: As you have never read it before!",
+    "description": "This essay aims to compile unexpected discoveries (all underwater) relating to the Mesolithic period.",
+    "author": "Hervé Cariou",
+    "tags": ["Protohistory"],
+    "categories": ["Underwater Mesolithic"],
+    "cover": "covers/Mesolithic.jpg",
+    "url": ""
+  },
+  {
+    "id": "epub-39",
+    "title": "Hughes de Champagne. L’interview",
+    "description": "Essai historique sous la forme d'une interview fictive d'Hughes 1er de Champagne.",
+    "author": "Hervé Cariou",
+    "tags": ["Histoire"],
+    "categories": ["Les interviews fictives"],
+    "cover": "covers/Champagne.jpg",
+    "url": ""
+  },
+  {
+    "id": "epub-40",
+    "title": "de Nostredame : Quia non est nostrum noscere tempora, nec momenta",
+    "description": "Peut-on encore interpréter les quatrains de Michel de Nostredame, dit ''Nostradamus'', sans lasser le lecteur ? On relève le défi. ",
+    "author": "Hervé Cariou",
+    "tags": ["Anticipation", "Histoire"],
+    "categories": ["Les grandes énigmes"],
+    "cover": "covers/Nostredame.jpg",
+    "url": ""
+  },
+  {
+    "id": "epub-41",
+    "title": "de Nostredame : Quia non est et cetera. Centuria III",
+    "description": "Peut-on encore interpréter les quatrains de Michel de Nostredame, dit ''Nostradamus', sans lasser le lecteur ? On relève le défi.",
+    "author": "Hervé Cariou",
+    "tags": ["Anticipation", "Histoire"],
+    "categories": ["Les grandes énigmes"],
+    "cover": "covers/NostredameIII.jpg",
+    "url": ""
+  },
+  {
+    "id": "epub-42",
+    "title": "Circé : Le voyage d’Ulysse décodé",
+    "description": "On propose une démystification (une relecture moins légendaire) du voyage d'Ulysse.",
+    "author": "Hervé Cariou",
+    "tags": ["Anticipation", "Protohistoire"],
+    "categories": ["Les grandes énigmes"],
+    "cover": "covers/Circé.jpg",
+    "url": ""
+  }
+]
 
