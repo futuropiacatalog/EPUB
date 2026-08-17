@@ -1,1 +1,44 @@
+<!doctype html>
+
+<html lang="fr">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Catalogue EPUB</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="top">
+    <h1>Catalogue EPUB</h1>
+
+    <div class="controls">
+      <input id="search" type="search" placeholder="Rechercher (titre, description, auteur, tags…)" />
+
+      <div class="selects">
+        <select id="authorSelect">
+          <option value="">Tous les auteurs</option>
+        </select>
+
+        <select id="categorySelect">
+          <option value="">Toutes les catégories</option>
+        </select>
+
+        <select id="tagSelect">
+          <option value="">Tous les tags</option>
+        </select>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <div id="grid" class="grid" aria-live="polite"></div>
+  </main>
+
+  <footer class="footer">
+    <span id="count"></span>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
 
